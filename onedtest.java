@@ -4,6 +4,6 @@ import org.junit.*;
 public class onedtest{
     @Test
     public void testminus(){
-        assertEquals(3, oned.minus(5,3));
+        assertEquals(2, oned.minus(5,3));
     }
 }
